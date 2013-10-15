@@ -1,4 +1,10 @@
 Smith-Chart-Software
 ====================
 
-Course project of Microwave and antenna Author: Lixin Yao
+This is the course project of Microwave and antenna.
+
+You can use it to solve impedance matching problem in your homework or engineer design.
+
+You may need background knowledge of Smith Chart in order to play with it.
+
+Author: Lixin Yao.
